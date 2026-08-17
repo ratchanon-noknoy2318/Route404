@@ -31,3 +31,22 @@ This project focuses on maintaining and extending a **Legacy PHP system** inheri
 - **PHP** (Legacy Version) — Backend development and server-side logic
 - **HTML / CSS / JavaScript** — Frontend development and user interface
 - **ITA (Integrity and Transparency Assessment)** — A system developed in accordance with ITA standards used by the Ministry of Public Health
+
+
+---
+
+## Debugging & Troubleshooting Process
+
+When an **HTTP 404 error** was encountered, the issue was investigated by tracing the application's file structure and execution flow.
+
+```mermaid
+flowchart TD
+    A["HTTP 404 Error"] --> B["Inspect index.php"]
+    B --> C["Trace included PHP files"]
+    C --> D["Check ita-data/"]
+    D --> E["Check tb/"]
+    E --> F["Identify missing or incorrect file paths"]
+    F --> G["Modify PHP files"]
+    G --> H["Test the affected functionality"]
+    H --> I["System restored successfully"]
+```

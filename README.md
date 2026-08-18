@@ -1,6 +1,6 @@
 # Legacy PHP System Maintenance & Development
 
-This project focuses on maintaining and extending a **Legacy PHP system** inherited from an external developer. The main objective was to fix existing bugs and improve the system so that it could fully operate according to the requirements of the **Insurance Department and Nursing Department**.
+TThis project focused on maintaining and improving a **Legacy PHP** system to resolve critical issues and meet hospital requirements, helping the hospital successfully **pass its annual KPI assessment**.
 
 ---
 

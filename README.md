@@ -1,6 +1,6 @@
 # Legacy PHP System Maintenance & Development
 
-TThis project focused on maintaining and improving a **Legacy PHP** system to resolve critical issues and meet hospital requirements, helping the hospital successfully **pass its annual KPI assessment**.
+This project focused on developing and maintaining the ITA website for Kosamphi Nakhon Hospital to support the Integrity and Transparency Assessment (ITA) for the fiscal year 2024. The system was designed to provide accurate, accessible, and transparent information in accordance with the assessment criteria and hospital requirements, supporting the hospital in successfully completing its annual ITA assessment.
 
 ---
 

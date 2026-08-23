@@ -5,7 +5,7 @@ Maintained and restored the ITA website for Kosamphi Nakhon Hospital to support 
 ## Key Achievements
 
 - **System Recovery:** Resolved HTTP 404 errors by tracing incorrect file paths and PHP dependencies.
-- **Code Maintenance:** Modified and optimized 45+ legacy PHP files to restore system functionality.
+- **Code Maintenance:** Modified and optimized 50+ legacy PHP files to restore system functionality.
 - **User Collaboration:** Worked directly with Insurance and Nursing Departments to translate requirements into practical features.
 
 ## Tech Stack

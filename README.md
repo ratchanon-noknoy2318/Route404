@@ -10,8 +10,7 @@ Maintained and restored the ITA website for Kosamphi Nakhon Hospital to support 
 
 ## Tech Stack
 
-- **Backend:** PHP
-- **Frontend:** HTML, CSS, JavaScript
+- **Languages:** PHP
 - **System:** ITA (Integrity and Transparency Assessment)
 
 ## Debugging Approach

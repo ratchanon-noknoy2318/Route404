@@ -1,13 +1,3 @@
-# Legacy PHP System Maintenance & Development
-
-Maintained and restored the ITA website for Kosamphi Nakhon Hospital to support the 2024 annual assessment.
-
-## Key Achievements
-
-- **System Recovery:** Resolved HTTP 404 errors by tracing incorrect file paths and PHP dependencies.
-- **Code Maintenance:** Modified and optimized 50+ legacy PHP files to restore system functionality.
-- **User Collaboration:** Worked directly with Insurance and Nursing Departments to translate requirements into practical features.
-
 ## Tech Stack
 
 - **Languages:** PHP
@@ -17,8 +7,6 @@ Maintained and restored the ITA website for Kosamphi Nakhon Hospital to support 
 
 ```mermaid
 flowchart TD
-    A["HTTP 404 Error"] --> B["Trace File Path"]
-    B --> C["Inspect PHP Code"]
-    C --> D["Identify Incorrect Path"]
-    D --> E["Fix & Test"]
-    E --> F["System Restored"]
+    A["404 Error"] --> B["Trace & Inspect"]
+    B --> C["Identify & Fix"]
+    C --> D["System Restored & THB 9,000 Saved"]

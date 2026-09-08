@@ -1,7 +1,7 @@
 ## Tech Stack
 
 - **Languages:** PHP
-- **System:** ITA (Integrity and Transparency Assessment)
+- **Framework:** ITA (Integrity and Transparency Assessment)
 
 ## Debugging Approach
 
